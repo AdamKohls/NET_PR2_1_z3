@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Albumy>
+    <Kategoria Nazwa="Rock">
+        <Album>
+			<Nazwa>Origins</Nazwa>
+			<Autor>Imagine Dragons</Autor>
+			<RokWydania>2018</RokWydania>
+			<KrajPochodzenia>USA</KrajPochodzenia>
+        </Album>
+		<Album>
+			<Nazwa>Wilki</Nazwa>
+			<Autor>Wilki</Autor>
+			<RokWydania>1992</RokWydania>
+			<KrajPochodzenia>Polska</KrajPochodzenia>
+		</Album>
+    </Kategoria>
+    <Kategoria Nazwa="Pop">
+		<Album>
+			<Nazwa>Lata Dwudzieste</Nazwa>
+			<Autor>Dawid Podsiadło</Autor>
+			<RokWydania>2022</RokWydania>
+			<KrajPochodzenia>Polska</KrajPochodzenia>
+		</Album>
+		<Album>
+			<Nazwa>Melodrama</Nazwa>
+			<Autor>Lorde</Autor>
+			<RokWydania>2017</RokWydania>
+			<KrajPochodzenia>Nowa Zelandia</KrajPochodzenia>
+		</Album>
+		<Album>
+			<Nazwa>Lata Dwudzieste</Nazwa>
+			<Autor>Dawid Podsiadło</Autor>
+			<RokWydania>2023</RokWydania>
+			<KrajPochodzenia>Polska</KrajPochodzenia>
+		</Album>
+	</Kategoria>
+	<Kategoria Nazwa="Metal">
+		<Album>
+			<Nazwa>Powerslave</Nazwa>
+			<Autor>Iron Maiden</Autor>
+			<RokWydania>1984</RokWydania>
+			<KrajPochodzenia>USA</KrajPochodzenia>
+		 </Album>
+	</Kategoria>
+</Albumy>

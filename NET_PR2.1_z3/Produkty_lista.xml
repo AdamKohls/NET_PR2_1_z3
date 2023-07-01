@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Albumy>
+    <Album Kategoria="Pop">
+        <Nazwa>Lata Dwudzieste</Nazwa>
+		<Autor>Dawid Podsiadło</Autor>
+        <RokWydania>2023</RokWydania>
+        <KrajPochodzenia>Polska</KrajPochodzenia>
+    </Album>
+	<Album Kategoria="Pop">
+		<Nazwa>Lata Dwudzieste</Nazwa>
+		<Cena>4</Cena>
+		<KrajPochodzenia>Polska</KrajPochodzenia>
+	</Album>
+	<Album Kategoria="Pop">
+		<Nazwa>Lata Dwudzieste</Nazwa>
+		<Cena>4</Cena>
+		<KrajPochodzenia>Polska</KrajPochodzenia>
+	</Album>
+	<Album Kategoria="Pop">
+		<Nazwa>Lata Dwudzieste</Nazwa>
+		<Cena>4</Cena>
+		<KrajPochodzenia>Polska</KrajPochodzenia>
+	</Album>
+	<Album Kategoria="Pop">
+		<Nazwa>Lata Dwudzieste</Nazwa>
+		<Cena>4</Cena>
+		<KrajPochodzenia>Polska</KrajPochodzenia>
+	</Album>
+	<Album Kategoria="Pop">
+		<Nazwa>Lata Dwudzieste</Nazwa>
+		<Cena>4</Cena>
+		<KrajPochodzenia>Polska</KrajPochodzenia>
+	</Album>
+</Albumy>
